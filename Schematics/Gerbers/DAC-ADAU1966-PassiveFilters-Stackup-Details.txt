@@ -1,0 +1,14 @@
+Expected PCB stack-up for 4 layer boards:
+
+1oz copper
+0.2mm FR4 - Prepreg
+0.5oz copper
+1.2mm FR4 - Core
+0.5oz copper
+0.2mm FR4 - Prepreg
+1oz copper
+
+Note inner core can be any thickness to give desired overall PCB thickness, both prepreg layers must be 0.2mm FR4.
+
+
+2 layer boards are designed to be 1.6mm overall thickness.
