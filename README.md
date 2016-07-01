@@ -1,4 +1,4 @@
-# [Open Hardware DSP Platform](www.ohdsp.org)
+# [Open Hardware DSP Platform](http://www.ohdsp.org)
 ## ADAU1966 DAC with passive output filters
 ### Revision 2.0
 ###### DAC-ADAU1966 (KiCad 4.0.2-stable)
